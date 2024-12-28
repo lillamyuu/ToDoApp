@@ -1,0 +1,1 @@
+C:\Users\polin\source\repos\ToDoApp\ToDoApp\ToDoApp.csproj;x64
