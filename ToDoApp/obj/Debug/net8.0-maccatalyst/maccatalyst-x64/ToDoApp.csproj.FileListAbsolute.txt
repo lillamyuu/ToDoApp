@@ -304,3 +304,4 @@ C:\Users\polin\source\repos\ToDoApp\ToDoApp\obj\Debug\net8.0-maccatalyst\maccata
 C:\Users\polin\source\repos\ToDoApp\ToDoApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ToDoApp.pdb
 C:\Users\polin\source\repos\ToDoApp\ToDoApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ToDoApp.genruntimeconfig.cache
 C:\Users\polin\source\repos\ToDoApp\ToDoApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\ToDoApp.dll
+C:\Users\polin\source\repos\ToDoApp\ToDoApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ToDoApp.sourcelink.json
