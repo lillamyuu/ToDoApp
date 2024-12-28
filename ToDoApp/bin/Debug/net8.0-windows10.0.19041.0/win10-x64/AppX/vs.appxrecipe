@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\polin\source\repos\ToDoApp\ToDoApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-12-28T12:38:17.425</Modified>
+      <Modified>2024-12-28T18:33:49.997</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\polin\source\repos\ToDoApp\ToDoApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ToDoApp.dll">
       <PackagePath>ToDoApp.dll</PackagePath>
-      <Modified>2024-12-28T12:38:15.225</Modified>
+      <Modified>2024-12-28T18:33:47.782</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\polin\source\repos\ToDoApp\ToDoApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ToDoApp.exe</PackagePath>
-      <Modified>2024-12-28T12:38:15.351</Modified>
+      <Modified>2024-12-28T18:33:48.001</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\polin\source\repos\ToDoApp\ToDoApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>

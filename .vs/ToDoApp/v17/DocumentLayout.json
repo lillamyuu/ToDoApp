@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\polin\\source\\repos\\ToDoApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{70A0A09C-995F-4A84-A249-066E1DAA3D9D}|ToDoApp\\ToDoApp.csproj|c:\\users\\polin\\source\\repos\\todoapp\\todoapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{70A0A09C-995F-4A84-A249-066E1DAA3D9D}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{70A0A09C-995F-4A84-A249-066E1DAA3D9D}|ToDoApp\\ToDoApp.csproj|c:\\users\\polin\\source\\repos\\todoapp\\todoapp\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70A0A09C-995F-4A84-A249-066E1DAA3D9D}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{70A0A09C-995F-4A84-A249-066E1DAA3D9D}|ToDoApp\\ToDoApp.csproj|c:\\users\\polin\\source\\repos\\todoapp\\todoapp\\taskeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70A0A09C-995F-4A84-A249-066E1DAA3D9D}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\taskeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70A0A09C-995F-4A84-A249-066E1DAA3D9D}|ToDoApp\\ToDoApp.csproj|c:\\users\\polin\\source\\repos\\todoapp\\todoapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{70A0A09C-995F-4A84-A249-066E1DAA3D9D}|ToDoApp\\ToDoApp.csproj|solutionrelative:todoapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70A0A09C-995F-4A84-A249-066E1DAA3D9D}|ToDoApp\\ToDoApp.csproj|c:\\users\\polin\\source\\repos\\todoapp\\todoapp\\taskeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -74,20 +74,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TaskEditPage.xaml",
-              "DocumentMoniker": "C:\\Users\\polin\\source\\repos\\ToDoApp\\ToDoApp\\TaskEditPage.xaml",
-              "RelativeDocumentMoniker": "ToDoApp\\TaskEditPage.xaml",
-              "ToolTip": "C:\\Users\\polin\\source\\repos\\ToDoApp\\ToDoApp\\TaskEditPage.xaml",
-              "RelativeToolTip": "ToDoApp\\TaskEditPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-27T12:06:07.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\polin\\source\\repos\\ToDoApp\\ToDoApp\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "ToDoApp\\MainPage.xaml.cs",
@@ -100,20 +87,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TaskRepository.cs",
               "DocumentMoniker": "C:\\Users\\polin\\source\\repos\\ToDoApp\\ToDoApp\\TaskRepository.cs",
               "RelativeDocumentMoniker": "ToDoApp\\TaskRepository.cs",
               "ToolTip": "C:\\Users\\polin\\source\\repos\\ToDoApp\\ToDoApp\\TaskRepository.cs",
               "RelativeToolTip": "ToDoApp\\TaskRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T19:49:26.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\polin\\source\\repos\\ToDoApp\\ToDoApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ToDoApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\polin\\source\\repos\\ToDoApp\\ToDoApp\\MainPage.xaml",
+              "RelativeToolTip": "ToDoApp\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-25T19:38:55.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskEditPage.xaml",
+              "DocumentMoniker": "C:\\Users\\polin\\source\\repos\\ToDoApp\\ToDoApp\\TaskEditPage.xaml",
+              "RelativeDocumentMoniker": "ToDoApp\\TaskEditPage.xaml",
+              "ToolTip": "C:\\Users\\polin\\source\\repos\\ToDoApp\\ToDoApp\\TaskEditPage.xaml",
+              "RelativeToolTip": "ToDoApp\\TaskEditPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-27T12:06:07.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TaskItem.cs",
               "DocumentMoniker": "C:\\Users\\polin\\source\\repos\\ToDoApp\\ToDoApp\\TaskItem.cs",
               "RelativeDocumentMoniker": "ToDoApp\\TaskItem.cs",
@@ -121,12 +133,11 @@
               "RelativeToolTip": "ToDoApp\\TaskItem.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAA3wDUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T19:48:42.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T19:48:42.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TaskDetailPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\polin\\source\\repos\\ToDoApp\\ToDoApp\\TaskDetailPage.xaml.cs",
               "RelativeDocumentMoniker": "ToDoApp\\TaskDetailPage.xaml.cs",
@@ -134,25 +145,11 @@
               "RelativeToolTip": "ToDoApp\\TaskDetailPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T19:43:38.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T19:43:38.131Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\polin\\source\\repos\\ToDoApp\\ToDoApp\\MainPage.xaml",
-              "RelativeDocumentMoniker": "ToDoApp\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\polin\\source\\repos\\ToDoApp\\ToDoApp\\MainPage.xaml",
-              "RelativeToolTip": "ToDoApp\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAB4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-25T19:38:55.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "TaskEditPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\polin\\source\\repos\\ToDoApp\\ToDoApp\\TaskEditPage.xaml.cs",
               "RelativeDocumentMoniker": "ToDoApp\\TaskEditPage.xaml.cs",
@@ -160,8 +157,7 @@
               "RelativeToolTip": "ToDoApp\\TaskEditPage.xaml.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwCcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T11:46:56.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T11:46:56.782Z"
             },
             {
               "$type": "Document",
@@ -173,8 +169,7 @@
               "RelativeToolTip": "ToDoApp\\TaskDetailPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-26T19:11:01.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T19:11:01.947Z"
             },
             {
               "$type": "Document",
@@ -186,8 +181,7 @@
               "RelativeToolTip": "ToDoApp\\MauiProgram.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T17:57:04.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T17:57:04.26Z"
             },
             {
               "$type": "Document",
@@ -199,8 +193,7 @@
               "RelativeToolTip": "ToDoApp\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T19:50:00.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T19:50:00.759Z"
             },
             {
               "$type": "Document",
@@ -212,8 +205,7 @@
               "RelativeToolTip": "ToDoApp\\App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-25T19:49:57.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T19:49:57.338Z"
             },
             {
               "$type": "Document",
@@ -225,8 +217,7 @@
               "RelativeToolTip": "ToDoApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\XamlTypeInfo.g.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAPIGAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T20:16:16.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T20:16:16.741Z"
             },
             {
               "$type": "Document",
@@ -238,8 +229,7 @@
               "RelativeToolTip": "ToDoApp\\TaskEditPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-27T11:47:30.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T11:47:30.333Z"
             },
             {
               "$type": "Document",
@@ -251,8 +241,7 @@
               "RelativeToolTip": "ToDoApp\\AppShell.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-26T17:57:07.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T17:57:07.384Z"
             },
             {
               "$type": "Document",
@@ -264,8 +253,7 @@
               "RelativeToolTip": "ToDoApp\\TaskDetailPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-25T19:45:36.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T19:45:36.427Z"
             }
           ]
         }
