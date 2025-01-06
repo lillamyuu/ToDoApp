@@ -13,21 +13,21 @@
           "Microsoft.Maui.Controls": "8.0.83",
           "Microsoft.Maui.Controls.Compatibility": "8.0.83",
           "sqlite-net-pcl": "1.9.172",
-          "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.19041.57"
+          "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.19041.53"
         },
         "runtime": {
           "ToDoApp.dll": {}
         }
       },
-      "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.19041.57": {
+      "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.19041.53": {
         "runtime": {
           "Microsoft.Windows.SDK.NET.dll": {
             "assemblyVersion": "10.0.19041.38",
-            "fileVersion": "10.0.19041.55"
+            "fileVersion": "10.0.19041.52"
           },
           "WinRT.Runtime.dll": {
-            "assemblyVersion": "2.2.0.0",
-            "fileVersion": "2.2.0.48161"
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.6.47881"
           }
         }
       },
@@ -507,7 +507,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.19041.57": {
+    "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.19041.53": {
       "type": "runtimepack",
       "serviceable": false,
       "sha512": ""

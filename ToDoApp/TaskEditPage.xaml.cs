@@ -9,7 +9,7 @@ namespace ToDoApp;
 public partial class TaskEditPage : ContentPage
 {
     private TaskItem _task;
-    private readonly TaskRepository _taskRepository;
+    //private readonly TaskRepository _taskRepository;
 
     public event EventHandler<TaskItem> TaskUpdated;
 
@@ -17,7 +17,7 @@ public partial class TaskEditPage : ContentPage
     {
         InitializeComponent();
         _task = task;
-        _taskRepository = new TaskRepository();
+        //_taskRepository = new TaskRepository();
 
         TitleEntry.Text = _task.Title;
         DescriptionEditor.Text = _task.Description;
@@ -34,7 +34,7 @@ public partial class TaskEditPage : ContentPage
         _task.Title = TitleEntry.Text;
         _task.Description = DescriptionEditor.Text;
    
-        await _taskRepository.SaveTaskAsync(_task);
+        //await _taskRepository.SaveTaskAsync(_task);
         TaskUpdated.Invoke(this, _task);
         await Navigation.PopAsync();
     }

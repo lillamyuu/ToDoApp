@@ -72,15 +72,15 @@ namespace ToDoApp
             if (sender is ViewCell viewCell && viewCell.BindingContext is TaskItem task)
             {
                 var editPage = new TaskEditPage(task);
-                editPage.TaskUpdated += (s, updatedTask) =>
+                editPage.TaskUpdated += async (s, updatedTask) =>
                 {
-          
                     var index = _tasks.IndexOf(task);
                     if (index >= 0)
                     {
                         _tasks[index].Title = updatedTask.Title;
                         _tasks[index].Description = updatedTask.Description;
                         _tasks[index].IsCompleted = updatedTask.IsCompleted;
+                        await _taskRepository.SaveTaskAsync(updatedTask);
                     }
                   
                 };

@@ -159,6 +159,7 @@ C:\Users\polin\source\repos\ToDoApp\ToDoApp\obj\Debug\net8.0-windows10.0.19041.0
 C:\Users\polin\source\repos\ToDoApp\ToDoApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ToDoApp.AssemblyInfoInputs.cache
 C:\Users\polin\source\repos\ToDoApp\ToDoApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ToDoApp.AssemblyInfo.cs
 C:\Users\polin\source\repos\ToDoApp\ToDoApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\polin\source\repos\ToDoApp\ToDoApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ToDoApp.sourcelink.json
 C:\Users\polin\source\repos\ToDoApp\ToDoApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
 C:\Users\polin\source\repos\ToDoApp\ToDoApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ToDoApp.csproj.Up2Date
 C:\Users\polin\source\repos\ToDoApp\ToDoApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ToDoApp.dll
@@ -182,4 +183,3 @@ C:\Users\polin\source\repos\ToDoApp\ToDoApp\obj\Debug\net8.0-windows10.0.19041.0
 C:\Users\polin\source\repos\ToDoApp\ToDoApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\polin\source\repos\ToDoApp\ToDoApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\polin\source\repos\ToDoApp\ToDoApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
-C:\Users\polin\source\repos\ToDoApp\ToDoApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ToDoApp.sourcelink.json
